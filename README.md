@@ -1,5 +1,5 @@
 # Telegram bot on python
-It's a guessing bot. You can play with it as follows, you guess a number, it guesses it. It is also possible to change the number of tries (Default is 5).
+This is a bot for guessing numbers. You can play with it as follows: the bot guesses a number from 1 to 100 and you guess it. You can also change the number of tries (default is 5). You can view your statistics. The minus of the bot is that it saves the data not in the database but in a pickle file.
 # Setting up a bot in Telegram.
 
 To do so, navigate to the @BotFather bot. Next, create your own bot. Everything will be written there.
