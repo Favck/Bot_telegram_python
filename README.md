@@ -18,11 +18,11 @@ After adding the commands, launch the bot and good luck!)
 # How to run:
 ### 1. Don't forget to enter your bot's token.
 ### 2. Commands:
-With this command you will download all the libraries you need
+With this command you will download all the libraries you need:
 ```bash
 python -m pip install -r requirements.txt 
 ```
-To start the bot, you need to enter this command 
+To start the bot, you need to enter this command:
 ```bash
 python Bot.py
 ```
